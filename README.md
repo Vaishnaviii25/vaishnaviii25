@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Panchal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviii25&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviii25" /> </p>
 
-- 🔭 I’m currently learning **new web technologies and actively using my knowledge in various web development projects.**
+- 🔭 I’m currently learning **React.js and other new web technologies and actively using my knowledge in various web development projects.**
 - 👯 I'm interested in teaming up with talented developers to build stunning applications together.
 
 - 📫 How to reach me **vaish25navi.panchal@gmail.com**
